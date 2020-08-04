@@ -1,6 +1,6 @@
 {
-  "name": "ken48.overdrawmonitor",
+  "name": "com.guendeli.overdrawmonitor",
   "displayName": "Overdraw Monitor",
-  "version": "1.0.0",
+  "version": "0.1",
   "unity": "2019.1"
 }
