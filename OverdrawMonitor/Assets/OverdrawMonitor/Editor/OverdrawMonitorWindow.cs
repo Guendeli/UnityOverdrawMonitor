@@ -10,7 +10,7 @@ public class OverdrawMonitorWindow : EditorWindow
     GameObject _monitorsGo;
     Dictionary<CameraOverdrawMonitor, CameraOverdrawStats> _stats;
 
-    [MenuItem("Tools/Overdraw Monitor")]
+    [MenuItem("Omar's Tools/Overdraw Monitor")]
     static void ShowWindow()
     {
         GetWindow<OverdrawMonitorWindow>().Show();
